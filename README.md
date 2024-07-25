@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Machine Learning Engineer | Data Analytics | Business Analytics | Business Intelligence
 
 #### Technical Skills: Python, SQL, R
 
