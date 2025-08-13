@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raja Solanki</h1>
-<h3 align="center">AI/ML Engineer passionate about AI, data science, and building intelligent solutions.</h3>
+<h3 align="center">Data Scientist passionate about AI, data science, and building intelligent solutions.</h3>
 
-- 🔭 I’m currently working on **Automating Grading System**
+- 🔭 I’m currently working on **Sentiment Analysis**
 
 - 🌱 I’m currently learning **GenAI**
 
